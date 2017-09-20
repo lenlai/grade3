@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\administrator\documents\visual studio 2015\projects\caculator\caculatot\源.cpp(7): warning C4101: “i”: 未引用的局部变量
+c:\users\administrator\documents\visual studio 2015\projects\caculator\caculatot\源.cpp(60): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  caculatot.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\caculator\Debug\caculatot.exe
+  caculatot.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\caculator\Debug\caculatot.pdb (Partial PDB)
